@@ -29,17 +29,19 @@ I divide my focus across several pillars of technology:
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfrxelza3im&theme=tokyonight&show_icons=true&hide_border=true" alt="Tayeb's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfrxelza3im&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
+## 📊 Stats:
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jfrxelza3im&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=jfrxelza3im&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=jfrxelza3im&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfrxelza3im&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jfrxelza3im&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
